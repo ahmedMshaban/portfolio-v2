@@ -5,7 +5,7 @@ module.exports = {
     title: 'Ahmed Shaban',
     description:
       'Ahmed Shaban is a software engineer who specializes in building exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://ahmedmshaban.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.svg', //to change
+        icon: 'src/images/logo.png', //to change
       },
     },
     `gatsby-plugin-offline`,
