@@ -69,10 +69,6 @@ const Hero = () => {
       at home as a front-end engineer. I'm experienced in developing and
       designing products for the web, from simple landing pages to full-fledged
       web apps.</p>
-      <p>Also, I'm currently in my second year (out of three) studying 
-      computer science at London University, the degree is online but I'm planning
-      to transfer to on-campus in the final year.
-      </p>
     </>
   );
 
