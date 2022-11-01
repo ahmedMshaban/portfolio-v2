@@ -7,10 +7,10 @@ external: 'https://shop.luckylittlelearners.com/'
 tech:
   - React
     Typescript
-    HTML
-    CSS
+    Node.js
     Wordpress API
     Algolia API
+    PSPDFKit API
 ---
 
 A website to help 1st & 2nd grade teachers become confident teachers.
