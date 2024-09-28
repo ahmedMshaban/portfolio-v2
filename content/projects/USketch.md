@@ -8,6 +8,7 @@ tech:
   - HTML
   - CSS
 company: 'UOL'
-showInProjects: false
+showInProjects: true
 ---
+
 U-Sketch is a drawing application that help you draw staff easy and fast.
