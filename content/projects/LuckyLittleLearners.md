@@ -11,6 +11,7 @@ tech:
     Wordpress API
     Algolia API
 company: 'Superwebpros'
-showInProjects: false
+showInProjects: true
 ---
+
 They provide engaging curriculum & teaching ideas
