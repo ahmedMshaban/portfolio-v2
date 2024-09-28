@@ -1,12 +1,12 @@
 ---
-date: '2018-06-14'
-title: 'Frontend Developer'
+date: '2017-06-14'
+title: 'Web Developer'
 company: 'Superwebpros'
-location: 'Remote'
-range: 'June 2017 - Present'
+location: 'Bursa, Türkiye · Remote'
+range: 'Jun 2017 - May 2023'
 url: 'https://superwebpros.com'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, WordPress, Shopify, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Developed modern, performant code for a wide range of client and internal projects, working collaboratively with multidisciplinary teams daily.
+- My work resulted in significant performance improvements for client Playmakers, including an 86% increase in sales, an 84% rise in order numbers, and a marked improvement in search and product speed, enhancing user satisfaction and engagement.
+- My work also improved the product search filter by 20ms for client Lucky Little Learners, increasing sales by 139% within 4 months.

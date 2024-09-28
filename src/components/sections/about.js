@@ -126,7 +126,15 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Typescript', 'Redux', 'CSS', 'Vitest/Jtest'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'Next.js',
+    'React',
+    'Typescript',
+    'Redux',
+    'CSS',
+    'Vitest/Jtest',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,8 +145,8 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Ahmed and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try cloning 
-              the Google home page.
+              interest in web development started back in 2012 when I decided to try cloning the
+              Google home page.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
